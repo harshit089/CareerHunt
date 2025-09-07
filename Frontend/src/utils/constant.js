@@ -1,4 +1,4 @@
-const BASE_API_URL ="https://careerhunt-85th.onrender.com/api/v1";
+const BASE_API_URL ="https://careerhunt-85th.onrender.com";
 
 export const USER_API_END_POINT = `${BASE_API_URL}/user`;
 export const JOB_API_END_POINT = `${BASE_API_URL}/job`;
